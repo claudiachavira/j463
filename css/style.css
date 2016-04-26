@@ -1,5 +1,74 @@
-container {
+.row {
 	width: 840px;
 	margin: 50px;
 	padding: 50px;
+	background-color: white;
+}
+
+h1{
+	font-family: 'Oswald';
+	font-size: 50px;
+	letter-spacing: 30px;
+	padding: 50px 0px 50px 0px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.nav {
+	font-family: 'Oswald';
+	font-size: 14px;
+	text-transform: uppercase;
+	text-align: center;
+	word-spacing: 30px;
+}
+
+h2 {
+	font-family: 'Oswald';
+	font-size: 16px;
+	text-transform: uppercase;
+	padding-bottom: 10px;
+}
+
+h3 {
+	font-family: 'Oswald';
+	font-size: 16px;
+	padding: 20px 0px 10px 0px;
+	clear: both;
+}
+
+p{
+	font-family: 'Crimson Text';
+	font-size: 16px;
+	line-height: 20px;
+	padding-left: 20px;
+}
+
+.main img {
+	float: left;
+	padding-right: 20px;
+}
+
+span a {
+	text-decoration: none;
+	color: black;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #d3d3d3;
+	font-style: italic;
+}
+
+.about img {
+	padding-bottom: 20px;
+}
+
+.main  {
+	border-left: .5px solid #d3d3d3;
+	padding-left: 20px;
 }

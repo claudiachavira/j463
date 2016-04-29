@@ -48,17 +48,13 @@ p{
 	padding-right: 20px;
 }
 
+
 span a {
 	text-decoration: none;
 	color: black;
 }
 
-a {
-	text-decoration: none;
-	color: black;
-}
-
-a:hover {
+span a:hover {
 	text-decoration: none;
 	color: #d3d3d3;
 	font-style: italic;
